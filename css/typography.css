@@ -1,0 +1,38 @@
+
+/*Roboto font-family*/
+@font-face {
+  font-family: 'robotoregular';
+  src: url('../fonts/roboto-regular-webfont-webfont.woff2') format('woff2'),
+    url('../fonts/roboto-regular-webfont-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+/*Roboto font-family*/
+
+/*sf_pro_display fonts*/
+
+@font-face {
+  font-family: 'sf_pro_displaymedium';
+  src: url('../fonts/sf-pro-display-medium-webfont.woff') format('woff2'),
+       url('../fonts/sf-pro-display-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'sf_pro_displayregular';
+  src: url('../fonts/sf-pro-display-regular-webfont.woff2') format('woff2'),
+       url('../fonts/sf-pro-display-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'sf_pro_displaysemibold';
+  src: url('../fonts/sf-pro-display-semibold-webfont.woff2') format('woff2'),
+       url('../fonts/sf-pro-display-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}/*sf_pro_display fonts*/
