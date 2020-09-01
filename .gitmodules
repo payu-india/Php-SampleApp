@@ -1,0 +1,3 @@
+[submodule "Php-SampleApp"]
+	path = Php-SampleApp
+	url = https://github.com/payu-india/Php-SampleApp
