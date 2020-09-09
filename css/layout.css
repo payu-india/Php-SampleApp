@@ -7,8 +7,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -19,7 +19,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -94,7 +94,7 @@ section {}
   letter-spacing: 0.48px;
   color: #292929;
   font-family: 'sf_pro_displaymedium';
-  
+
 }
 .header-main .hd-nav ul li a{
   font-size: 12px;
@@ -103,7 +103,15 @@ section {}
   color: #292929;
   font-family: 'sf_pro_displaymedium';
   text-decoration: underline;
-  text-decoration-color:#f8bf45;  
+  text-decoration-color:#f8bf45;
+}
+.cmn-btn-2 {
+
+	text-align: center;
+	transition: background 0.4s;
+	width: 300px;
+	height: 40px;
+
 }
 
 .banner-main {
@@ -128,7 +136,7 @@ section {}
   padding-top: 60px;
   padding-bottom: 60px;
   position: relative;
-  
+
 }
 .bn-crt-img {
   width: 94px;
@@ -197,7 +205,7 @@ section {}
 .form-hd span{
   background-color: #ffffff;
   color: #292929;
-  border-bottom: 1px solid #f8bf45; 
+  border-bottom: 1px solid #f8bf45;
   font-size: 12px;
   line-height: 16px;
   letter-spacing: 0.48px;
@@ -489,7 +497,7 @@ padding: 0;
  .cmn-btn.orange-color:hover {
   background: #e65848;
  }
- 
+
 /*confirm page css end*/
 
 /*response page css start*/
