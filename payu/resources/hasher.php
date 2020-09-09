@@ -79,6 +79,7 @@ function validate_hash($params)
         $payhash_str = $additional_charge.'|'.$salt.'|'.$status.'|||||||||||'.$email.'|'.$firstname.'|'.$productinfo.'|'.$amount.'|'.$txnid.'|'.$key;
 
       }
+      echo $payhash_str;
       // echo $additional_charge;
       $reverse_hash = strtolower(hash('sha512', $payhash_str));
       $arr['payment_hash'] = $paymentHash;

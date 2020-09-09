@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +36,7 @@
 
 <div class="form-white-box">
 <div class="form-hd">Complete Or<span>Generate</span>your test payment details below</div>
-<form action="https://payu-checkout.herokuapp.com/" method="post">
+<form action="http://localhost:8888/PHP_SAMPLE_APP 2/checkout.php" method="post">
 <div class="frm-bx-content">
 <div class="form-row">
 <label>Name</label>
@@ -96,7 +95,7 @@
 </li>
 <li>
 <div class="prd-typ-main">
-<div class="prd-img"><img src="images/Keyboard_image.jpg"></div>
+<div class="prd-img"><img src="images/keyboard_image.jpg"></div>
 <p>
 <span class="prd-nm">Keyboard</span>
 <span class="prd-typ">Standard-size</span>
@@ -106,7 +105,7 @@
 </li>
 <li>
 <div class="prd-typ-main">
-<div class="prd-img"><img src="images/Coffee_mug.jpg"></div>
+<div class="prd-img"><img src="images/coffee_mug.jpg"></div>
 <p>
 <span class="prd-nm">Coffee Mug</span>
 <span class="prd-typ">Standard-size</span>
